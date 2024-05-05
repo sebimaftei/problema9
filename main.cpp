@@ -2,8 +2,6 @@
 #include "Map.h"
 using namespace std;
 
-struct owo { int foo; int bar; };
-
 int main()
 {
     Map<int, const char*> m;
